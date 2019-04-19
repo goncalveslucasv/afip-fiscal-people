@@ -1,5 +1,7 @@
 # AFIP fiscal people
 
+The library is designed to be the simplest way possible to download the afip register
+
 ## Basic usage
 ```js
 getFiscalPeople('http://www.afip[...]mbreDenominacion.zip',
