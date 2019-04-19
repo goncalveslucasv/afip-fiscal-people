@@ -2,7 +2,7 @@
 
 ## Basic usage
 ```js
-getFiscalPeople('http://www.afip.gob.ar/genericos/cInscripcion/archivos/apellidoNombreDenominacion.zip',
+getFiscalPeople('http://www.afip[...]mbreDenominacion.zip',
 	{
 		target: () => fs.createWriteStream(`out2.txt`)
 	}
@@ -23,3 +23,7 @@ pipeableFiscalPeople
   .pipe(something1())
   .pipe(something2())
 ```
+
+
+#### The link of the register until 04/19/2019 is:
+http://www.afip.gob.ar/genericos/cInscripcion/archivos/apellidoNombreDenominacion.zip
