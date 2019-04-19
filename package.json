@@ -1,12 +1,12 @@
 {
-  "name": "node_training",
-  "version": "1.0.0",
-  "description": "",
+  "name": "afip-fiscal-people",
+  "version": "0.0.3",
+  "description": "The library is designed to be the simplest way possible to download the afip register",
   "main": "src/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Lucas Goncalves <goncalveslucasv@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "fs": "0.0.1-security",
