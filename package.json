@@ -1,6 +1,6 @@
 {
   "name": "afip-fiscal-people",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "The library is designed to be the simplest way possible to download the afip register",
   "main": "src/app.js",
   "scripts": {
@@ -8,6 +8,10 @@
   },
   "author": "Lucas Goncalves <goncalveslucasv@gmail.com>",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goncalveslucasv/afip-fiscal-people.git"
+  },
   "dependencies": {
     "fs": "0.0.1-security",
     "request": "^2.88.0",
